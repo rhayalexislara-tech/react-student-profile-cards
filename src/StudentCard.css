@@ -1,0 +1,38 @@
+.student-card {
+  background: #ffffff;
+  border: 1px solid #d9e0ec;
+  border-radius: 14px;
+  padding: 24px 20px;
+  width: 260px;
+  text-align: center;
+  box-shadow: 0 4px 14px rgba(30, 50, 90, 0.08);
+}
+
+.avatar {
+  width: 64px;
+  height: 64px;
+  margin: 0 auto 12px;
+  border-radius: 50%;
+  background: #2f5fd0;
+  color: #fff;
+  font-size: 28px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.student-name {
+  margin: 0 0 10px;
+  font-size: 1.15rem;
+  color: #1c2a48;
+}
+
+.student-info {
+  margin: 4px 0;
+  color: #44506a;
+}
+
+.label {
+  font-weight: 600;
+}
